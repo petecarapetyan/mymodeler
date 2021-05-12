@@ -2,8 +2,8 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'chmoddash',
-    description: 'not-slashdot is a customizeable theme, for the Rocket SSG',
+    name: 'myModeler',
+    description: 'myModeler demos the `not-slashdot` customizeable theme, for the Rocket SSG',
     socialLinks: [
       {
         name: 'GitHub',
@@ -34,7 +34,7 @@ module.exports = function () {
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
     socialMediaImage: '/_assets/social-media-image.jpg',
-    analyticsUA: 'UA-12345678',
-    analyticsGA4: 'G-12345678'
+    analyticsUA: 'UA-52870008-9',
+    analyticsGA4: 'G-0DGWW9Q6XX'
   };
 };
