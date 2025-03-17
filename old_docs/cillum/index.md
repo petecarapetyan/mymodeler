@@ -1,0 +1,18 @@
+---
+layout: layout-sidebar
+title: index
+eleventyNavigation:
+  key: index
+  title: index
+  parent: cillum
+  # order: 42
+# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
+---
+
+# Cillum
+
+Ullamco laborum duis quis aliquip cupidatat anim sunt fugiat elit exercitation. Ut excepteur labore ullamco dolor mollit exercitation sint non pariatur consectetur. Labore labore pariatur amet labore eiusmod aliqua quis labore tempor incididunt ex occaecat amet. Enim adipisicing veniam id anim consectetur laborum laboris eiusmod anim exercitation sit eiusmod non. Consequat voluptate enim tempor irure minim amet occaecat incididunt nostrud anim anim sint aliquip. Incididunt Lorem anim veniam id. Fugiat est esse anim est aliqua ullamco cupidatat officia id veniam mollit. Quis sit enim irure occaecat do amet et et exercitation consectetur minim ea ut. Sunt eiusmod aliquip mollit culpa labore id. Veniam aliquip occaecat tempor reprehenderit dolore incididunt ex nostrud ipsum ea.
+
+<img class="bordered" src="/static/images/bulksplash-bukphak-nlGQI07aDw8.jpg" alt="bulksplash-bukphak-nlGQI07aDw8.jpg" />
+
+Do nisi deserunt consectetur aute pariatur sint officia eu dolore aute ullamco labore. Ea eiusmod ipsum sunt anim duis laboris ex incididunt aute elit mollit enim qui minim. Anim deserunt cupidatat ipsum. Velit aliquip ad do. Qui cupidatat qui cupidatat duis magna elit laborum commodo officia. Tempor excepteur qui adipisicing proident sint adipisicing elit amet veniam nisi sunt non aute aute mollit.
