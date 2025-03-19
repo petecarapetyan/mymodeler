@@ -1,10 +1,10 @@
 ---
 layout: layout-sidebar
-title: index
+title: laboris
 eleventyNavigation:
-  key: index
-  title: index
-  parent: laboris
+  key: laboris
+  title: laboris
+  parent: cillum
   # order: 42
 # FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
