@@ -1,12 +1,11 @@
 ---
 layout: layout-sidebar
-title: index
+title: Laboris Laboris
 eleventyNavigation:
-  key: index
-  title: index
-  parent: laboris-laboris
+  key: laboris-laboris
+  title: Laboris Laboris
+  parent: qui-sint
   # order: 42
-# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
 
 # Laboris laboris

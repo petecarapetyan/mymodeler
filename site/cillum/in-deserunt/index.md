@@ -1,12 +1,11 @@
 ---
 layout: layout-sidebar
-title: in-deserunt
+title: In Deserunt
 eleventyNavigation:
   key: in-deserunt
-  title: in-deserunt
+  title: In Deserunt
   parent: cillum
   # order: 42
-# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
 
 # In deserunt
