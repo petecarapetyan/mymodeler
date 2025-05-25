@@ -3,7 +3,7 @@
 {% block themeBody %}
     <header id="main-header" class="header-grid-area">
       {% block header %}
-        {% include 'partials/header.njk' %}
+        {% include 'block/header.njk' %}
       {% endblock header%}
     </header>
     <div class="ga-head2-main"></div>
@@ -11,5 +11,5 @@
     <div class="banner rocket-content ga-head4-main">
       <p>[ad banner goes here]</p>
     </div>
-  {% include '_block/sidebar.njk' %}
+  {% include 'block/sidebar.njk' %}
 {% endblock themeBody %}
